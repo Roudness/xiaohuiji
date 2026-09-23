@@ -50,6 +50,19 @@ DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.info
 DOMAIN-SUFFIX,saasexch.io
 
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,services.com
+DOMAIN-SUFFIX,foter.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,sintral.me
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,bsmkweb.cn
+DOMAIN-SUFFIX,100ycdn.com
+DOMAIN-SUFFIX,asterdex.com
+DOMAIN-SUFFIX,asterdex.mobi
+DOMAIN-SUFFIX,asterdex.tv
+DOMAIN-SUFFIX,cloudfront.net
+
 # exact
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
 DOMAIN,zftksc.launches.appsflyersdk.com
