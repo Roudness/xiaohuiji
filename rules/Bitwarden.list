@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,naval.cc.cd
-DOMAIN-SUFFIX,vault.naval.cc.cd
 
 DOMAIN,vault.bitwarden.com
 DOMAIN,vault.bitwarden.eu
@@ -26,3 +24,8 @@ DOMAIN,scim.bitwarden.com
 DOMAIN,scim.bitwarden.eu
 
 DOMAIN,icons.bitwarden.net
+
+DOMAIN-SUFFIX,naval.cc.cd
+DOMAIN-SUFFIX,vault.naval.cc.cd
+DOMAIN-SUFFIX,toro.kdns.fr
+DOMAIN-SUFFIX,vault.toro.kdns.fr
