@@ -68,18 +68,6 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
 DOMAIN,zftksc.launches.appsflyersdk.com
 
-#diy
-DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,online-metrix.net
-DOMAIN-SUFFIX,gateway.icloud.com.cn
-DOMAIN-SUFFIX,configuration.ls.apple.com
-DOMAIN-SUFFIX,addfd325e6e3.cdn4.forter.com
-DOMAIN-SUFFIX,apxstatic-1306379396.file.myqcloud.com
-DOMAIN-SUFFIX,ocsp2.apple.com
-DOMAIN-SUFFIX,cacerts.geotrust.com
-DOMAIN-SUFFIX,wps.apple.com
 
 
 
@@ -89,13 +77,4 @@ DOMAIN-SUFFIX,wps.apple.com
 
 
 
-
-
-
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
 
