@@ -68,6 +68,14 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
 DOMAIN,zftksc.launches.appsflyersdk.com
 
+#other
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,pvcliping.com
+DOMAIN-SUFFIX,safehw.com
+
 
 
 
